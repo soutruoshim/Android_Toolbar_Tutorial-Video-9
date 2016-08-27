@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<searchable xmlns:android="http://schemas.android.com/apk/res/android"
+    android:hint="@string/searchable"
+    android:label="@string/searchable"
+    android:searchSuggestAuthority="android_in_5_minutes.com.mytoolbarapplication_video9.SearchableProvider"
+    android:searchSuggestSelection=" ?">
+
+
+</searchable>
